@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+*.h
+*.jik
 # Compiled Object files
 *.slo
 *.lo
